@@ -269,7 +269,7 @@ do
                     placeId = game.PlaceId,
                     jobId = game.JobId,
                     executor = GetExecutor(),
-                    clientVersion = "CRUUZZ-KIRA-1.0"
+                    clientVersion = "CRUUZZ-1.0"
                 })
             end
 
@@ -279,7 +279,7 @@ do
                     placeId = game.PlaceId,
                     jobId = game.JobId,
                     executor = GetExecutor(),
-                    clientVersion = "CRUUZZ-KIRA-1.0"
+                    clientVersion = "CRUUZZ-1.0"
                 })
             end
 
