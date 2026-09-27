@@ -12103,7 +12103,7 @@ function u1130()
         end
 
         if typeof(p331) ~= "Vector3" then
-            return v2083, 
+           return v2083, v2083 
         end
 
         if u1130() then
