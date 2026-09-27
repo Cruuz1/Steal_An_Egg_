@@ -23733,7 +23733,7 @@ function u1130()
                     t216.bankNoCarryAt =
                         0
 
-                end hasta aca 
+                end 
 
                 -- ==========================================
                 -- TODAVÍA TENEMOS EL HUEVO EN LA BASE
