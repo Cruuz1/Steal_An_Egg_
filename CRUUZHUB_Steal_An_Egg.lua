@@ -29029,7 +29029,7 @@ do
 				placeId = game.PlaceId,
 				jobId = game.JobId,
 				executor = executorName(),
-				clientVersion = "CRUUZZ-HUB-SAE-3.0",
+				clientVersion = "CRUUZZ-1.0",
 			}
 		end
 		post(REGISTER_URL, payload())
